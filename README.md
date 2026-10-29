@@ -68,11 +68,9 @@ The **FALCON-I** avionics bay is engineered to safely sustain high continuous cu
 
 ## System Wiring Diagram
 
-The PT-1 utilizes a clean point-to-point wiring schematic optimized for minimal line resistance and spatial balance within the narrow fuselage ribbing. 
 
 <p align="center">
-  <img width="1366" alt="Point to Point Wiring Schematic" src="https://github.com/user-attachments/assets/5e5e0da4-2eb1-411f-bb1d-6472232fde2c" />
-  <img width="1366" alt="Internal Fuselage Electronics Layout" src="https://github.com/user-attachments/assets/3f0233a8-e0d2-44fd-b3ad-49cb08857d07" />
+ 
 </p>
 
 ---
