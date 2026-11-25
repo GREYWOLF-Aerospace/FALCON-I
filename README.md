@@ -12,7 +12,6 @@
   <a href="#visual-looks">Visual Looks</a> •
   <a href="#airframe-materials-list">Materials</a> •
   <a href="#electronics--propulsion-system">Electronics Strategy</a> •
-  <a href="#system-wiring-diagram">Wiring Diagram</a> •
   <a href="#success-criteria--flight-goals">Flight Goals</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a>
@@ -65,8 +64,6 @@ The **FALCON-I** avionics bay is engineered to safely sustain high continuous cu
 
 
 ---
-
-## System Wiring Diagram
 
 
 <p align="center">
