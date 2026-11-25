@@ -60,7 +60,7 @@ The structural framework utilizes a lightweight, high-strength composite prototy
 
 ## Electronics & Propulsion Strategy
 
-The **FALCON-I** avionics bay is engineered to safely sustain high continuous current loads. Comprehensive component sourcing, unit prices, and specific funding breakdowns are tracked in the dedicated [Bill of Materials Guide](BOM.md).
+The **FALCON-I** avionics bay is engineered to safely sustain high continuous current loads. Comprehensive component sourcing, unit prices, and specific funding breakdowns are tracked in the dedicated [Bill of Materials Guide](https://github.com/GREYWOLF-Aerospace/FALCON-I/blob/main/BOM.Md)).
 
 
 ---
